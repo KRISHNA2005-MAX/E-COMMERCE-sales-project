@@ -80,7 +80,7 @@ The project uses an e-commerce sales dataset containing transaction-level inform
 - Apply practical Power BI skills to a real-world-style business analytics project.
 
 ## 📸 Dashboard Preview
-
+https://github.com/KRISHNA2005-MAX/E-COMMERCE-sales-project/blob/main/E-Commerce%20Analysis%20Dashboard.png
 
 
 ## 📚 Key Learnings
